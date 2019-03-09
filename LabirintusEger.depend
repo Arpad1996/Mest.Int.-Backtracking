@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552119151 source:c:\users\gagyi\onedrive\desktop\labirintuseger\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
